@@ -1,5 +1,7 @@
 # Bahtiyorjon Hakimov · Baxtiyorjon Hakimov · Бахтиёржон Хакимов
 
+<img src="photo.jpg" alt="Bahtiyorjon Hakimov" width="160" align="right">
+
 **Hakimov Bahtiyorjon Muzaffar o'g'li** — Computer Graphics Lecturer at the Department of Computer Engineering, **Andijan State University** (Andijan, Uzbekistan); master's student in *Computer Systems and Their Software* (2025–2027).
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--7222--3508-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-7222-3508)
